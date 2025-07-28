@@ -1,60 +1,63 @@
 <h1 align="center">Luis Sánchez</h1>
 
 <p align="center">
-  👨‍💻 CTO | Full Stack Developer | Tech Leader<br/>
-  🚀 Apasionado por crear productos digitales escalables e innovadores
+  👨‍💻 Full Stack Developer | Tech Leader<br/>
+  🚀 Passionate about building scalable and innovative digital products
 </p>
+
 
 ---
 
-## 🚀 Proyectos destacados
+## 💼 About Me
 
-### 🎮 [LaGuaridaGaming.com](https://laguaridagaming.com)
-**Ecosistema de eSports y comunidad gaming**
+I'm a results-driven professional, leading development teams and designing robust architectures for digital products. I enjoy being involved in both the strategic side of the product and the code that brings it to life.
 
-> Plataforma de torneos, noticias y perfiles de jugadores. Pensada para fortalecer comunidades competitivas y conectar gamers con marcas.
+- 🧠 Technical leadership and roadmap management
+- ⚙️ Full stack experience (React, Node.js, DevOps, MongoDB)
+- 🔒 Focused on scalability, security, and performance
+- 📈 Product mindset: user-first, continuous delivery
 
-**Tecnologías utilizadas:**
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [LaGuaridaGaming.com](https://laguaridagaming.com)
+**Ecommerce platform specialized in TCG (Trading Card Games) products**
+
+> A fully in-house developed platform for selling trading cards, booster packs, and collectible products from franchises like Pokémon, Magic: The Gathering, and Yu-Gi-Oh. Every component — from the frontend to the payment and logistics systems — was custom built.
+
+**Key Features:**
+- Custom-built shopping cart system
+- Direct integration with payment processor (checkout and validation)
+- Real-time connection with shipping provider to calculate costs based on weight, region, and shipping method
+- Scalable discount and promotion system
+- Private admin panel for managing products, orders, and customers
+
+**Tech Stack:**
 - Next.js
 - TypeScript
-- MongoDB
+- Express + MongoDB
 - Tailwind CSS
-- Socket.IO (para tiempo real)
+- Stripe API / Custom Shipping API integrations
 
 ---
 
 ### 🃏 [TCGBids.com](https://tcgbids.com)
-**Marketplace de subastas en tiempo real para cartas TCG**
+**Real-time auction marketplace for TCG collectors**
 
-> Una experiencia tipo eBay pero enfocada en coleccionistas de cartas Pokémon, Magic y Yu-Gi-Oh. Chat en vivo entre compradores, sistema de pujas y control total por parte del vendedor.
+> An auction experience tailored for trading card collectors — similar to eBay but designed specifically for Pokémon, Magic, and Yu-Gi-Oh. Includes live chat between buyers and sellers, bidding system, and full control over listings.
 
-**Tecnologías utilizadas:**
+**Tech Stack:**
 - Next.js
 - Express + MongoDB
-- WebSockets
-- Auth con cookies seguras y sesiones persistentes
-- Diseño mobile-first
+- WebSockets (real-time bidding)
+- Auth with secure cookies and persistent sessions
+- Mobile-first UI/UX
 
 ---
 
-## 💼 Sobre mí
+## 📫 Contact
 
-Soy un profesional enfocado en resultados, liderando equipos de desarrollo y diseñando arquitecturas robustas para productos digitales. Me gusta involucrarme tanto en la estrategia del producto como en el código que lo construye.
-
-- 🧠 Liderazgo técnico y gestión de roadmap
-- ⚙️ Experiencia full stack (React, Node, DevOps, MongoDB)
-- 🔒 Enfoque en escalabilidad, seguridad y rendimiento
-- 📈 Mentalidad producto: usuario primero, entregas continuas
-
----
-
-## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- [Correo electrónico](mailto:tu@email.com)  
-- [LaGuaridaGaming.com](https://laguaridagaming.com)
-
----
-
-_Gracias por visitar mi perfil. Estoy abierto a colaboraciones, asesoría tecnológica o simplemente una buena conversación sobre software._
+- [LinkedIn](https://www.linkedin.com/in/lsanchezperez/)  
+- [Email](mailto:luissanchez.94@hotmail.com)
 
